@@ -23,6 +23,7 @@ function App() {
 
       {/* Chat Area */}
       <div className="flex-1 flex flex-col bg-slate-900">
+	  <h1>Hello Guys</h1>
 
         <ChatHeader chat={selectedChat} />
 
